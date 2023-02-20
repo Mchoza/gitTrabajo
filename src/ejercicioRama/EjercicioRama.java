@@ -7,6 +7,7 @@ public class EjercicioRama {
 		
 		System.out.println("Ha nacido una estrella");
 		System.out.println("Me pica el culo");
+		System.out.println("Ahora me pica un pie");
 
 	}
 
