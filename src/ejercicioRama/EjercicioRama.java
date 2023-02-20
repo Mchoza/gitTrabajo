@@ -6,6 +6,7 @@ public class EjercicioRama {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Ha nacido una estrella");
+		System.out.println("Me pica el culo");
 
 	}
 
